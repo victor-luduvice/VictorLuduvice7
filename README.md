@@ -1,7 +1,7 @@
 <h3> Olá, sou Victor Luduvice 👋</h3>
 
 - ⚙ Atualmente estou trabalhando em projetos pessoais para conseguir um emprego.
-- 🌸 Atualmente estou aprendendo JavaScript
+- 🌸 Atualmente estou aprendendo JavaScript, HTML E CSS
 - 📫 Contate-me no Email: contatovct777@gmail.com
 - 🐱‍👤 pronomes: ele/dele
 
@@ -11,5 +11,4 @@
 
  <div>
   <a href="https://instagram.com/gaarajkk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
 </div>  
