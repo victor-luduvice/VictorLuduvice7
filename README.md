@@ -1,4 +1,4 @@
-## Olá, sou Victor Luduvice 👋</h3>
+## Olá, sou Victor Luduvice 👋
 
   - 🌸 Atualmente estou trabalhando em projetos pessoais.
   - 💼 Estou aberto a oportunidades de trabalho sendo desenvolvedor de software.
@@ -13,6 +13,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="vertical-align:top; margin:4px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="vertical-align:top; margin:4px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px/>
+
+
 
 
 
