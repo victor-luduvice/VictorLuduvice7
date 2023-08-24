@@ -1,31 +1,14 @@
-<h3> Olá, sou Victor Luduvice 👋</h3>
+## Olá, sou Victor Luduvice 👋</h3>
 
- <img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" width="30%" align="right" display="flex"/>
- <hr>
+  - 🌸 Atualmente estou trabalhando em projetos pessoais.
+  - 💼 Estou aberto a oportunidades de trabalho sendo desenvolvedor de software.
+  - 🌱 Being a developer is a journey where the next stop is solving a problem.
 </br>
 
- - 🌸 Atualmente estou trabalhando em projetos pessoais.
-- 📫 Contate-me no Email: contatovct777@gmail.com
-- 🐱‍👤 pronomes: ele/dele
-
- <hr>
-</br>
-
- <div align="center">
-  <a href="https://github.com/VictorLuduvice7">
-   <img style="width: 400px;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLuduvice7&layout=compact&theme=dark"/>
-   </div> 
-
-<tr>
- <hr>
- 
-#### Languages
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="vct-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="vct-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="vct-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+## 📕 Programming Languages
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="vertical-align:top; margin:4px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="vertical-align:top; margin:4px/>
 
  
  
