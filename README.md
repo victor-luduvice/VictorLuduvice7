@@ -6,14 +6,14 @@
 </br>
 
 # ⚙ Skills
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+<img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/javascript.png" alt="javascript"/>
+<img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/html-5.png" alt="html-5"/>
+<img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/css3.png" alt="css3"/>
+<img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/git.png" alt="git"/>
+<img width="30" height="30" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/>
+<img width="30" height="30" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="30" height="" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="intellij-idea"/>
 
 <br/>
 
