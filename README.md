@@ -5,21 +5,29 @@
   - 🌱 Being a developer is a journey where the next stop is solving a problem.
 </br>
 
-# ⚙ Skills
-<img width="30" height="30" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-java-computer-programming-flaticons-flat-flat-icons.png" alt="external-java-computer-programming-flaticons-flat-flat-icons"/>
-<img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/javascript.png" alt="javascript"/>
-<img width="30" height="30" src="https://img.icons8.com/plasticine/100/html-5.png" alt="html-5"/>
-<img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/css3.png" alt="css3"/>
-<img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/git.png" alt="git"/>
-<img width="30" height="30" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/>
-<img width="30" height="30" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="30" height="" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="intellij-idea"/>
+## 🛠 Habilidades
+<div style="display: inline_block"><br>
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 
 <br/>
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=VictorLuduvice7&theme=radical)](https://github.com/VictorLuduvice7)
+</div>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLuduvice7&hide=html&layout=compact&theme=radical)](https://github.com/VictorLuduvice7)
+<div align="left">
+  <a href="https://github.com/VictorLuduvice7">
+  <img height="170em"  width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLuduvice7&hide=html&layout=compact&theme=github_dark"/>
+</div>
+
+## Ferramentas
+<div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>
+</div>
+
 
 ## 📫 Social
 
