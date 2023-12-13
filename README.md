@@ -1,4 +1,4 @@
-# Olá, sou Victor Luduvice 👋
+# Olá, sou Victor 👋
 
   - 🌸 Atualmente estou focado em projetos pessoais, em busca de melhorar meus conhecimentos!
   - 💼 Estou aberto a oportunidades de trabalho sendo desenvolvedor de software.
