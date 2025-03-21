@@ -48,7 +48,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">📫 Connect with me!</h3>
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/igviictor/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contatovct777@gmial.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp%20-%2384D249.svg?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5579998333341)
 
 <hr>
