@@ -8,44 +8,60 @@
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Atualmente Desenvolvo aplicações com Java e estudo Python paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </br>
+
 <hr>
 
-<img align="right" alt="" height="190px" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<div align='center'>
+
+![Victor's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=victor-luduvice&theme=transparent&show_icons=true&text_color=ffffff&hide_border=false&hide_title=true&height=100&text_bold=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-luduvice&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=8) 
+
+</div>
+<h3 align="left">🚀My Skills</h3>
+
+#### Front-End
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
+
+#### Back-End 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+
+#### FrameWork & Libraries
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white&style=for-the-badge)
+![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
+
+#### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge)
+
+<hr>
+
 <h3 align="left">📫 Connect with me!</h3>
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/igviictor/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contatovct777@gmial.com)
-
-<h3 align="left">🚀My Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="8" />
-</div>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp%20-%2384D249.svg?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5579998333341)
 
 <hr>
-<div style="text-align: center;" align="center">
-  <h3> GitHub Stats </h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victor-luduvice&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=6495ED&text_color=FFF&border_radius=3&border_color=6495ED&icon_color=6495ED&theme=dark" alt="GitHub stats">
 
-  <a href="https://github.com/victor-luduvice/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victor-luduvice&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=6495ED&hide=html,scss,less&bg_color=000&text_color=6495ED&border_radius=3&border_color=6495ED&count_private=true" alt="Most Used Languages">
-  </a>
+<!-- Cobrinha commits -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victor-luduvice/victor-luduvice/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victor-luduvice/victor-luduvice/output/github-contribution-grid-snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victor-luduvice/victor-luduvice/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-<hr>
 
-![snake gif](https://github.com/victor-luduvice/victor-luduvice/blob/output/github-contribution-grid-snake.gif)
 
 
 
