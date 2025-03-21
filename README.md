@@ -52,12 +52,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <hr>
 
-<!-- Cobrinha commits -->
-<!-- Cobrinha commits -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/victor-luduvice/victor-luduvice/main/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
-</div>
-
 
 
 
