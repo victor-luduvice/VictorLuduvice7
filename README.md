@@ -13,7 +13,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <div align='center'>
 
-  [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-luduvice&theme=blueberry)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ ![victor's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=victor-luduvice&theme=transparent&show_icons=true&text_color=ffffff&hide_border=false&hide_title=true&height=100&text_bold=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-luduvice&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=8) 
 
 </div>
